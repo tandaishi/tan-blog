@@ -4,13 +4,13 @@ import { defineUserConfig } from 'vuepress'
 import { viteBundler } from '@vuepress/bundler-vite'
 
 export default defineUserConfig({
-  lang: 'en-US',
+  lang: 'zh-CN',
 
-  title: 'VuePress',
-  description: 'My first VuePress Site',
+  title: '谭记随笔',
+  description: '一个不务正业的思想集散地。',
 
   theme: defaultTheme({
-    logo: 'https://vuejs.press/images/hero.png',
+    // logo: 'https://vuejs.press/images/hero.png',
 
     navbar: [
       '/',
@@ -22,14 +22,14 @@ export default defineUserConfig({
         text: 'Category',
         link: '/category/',
       },
-      {
-        text: 'Tag',
-        link: '/tag/',
-      },
-      {
-        text: 'Timeline',
-        link: '/timeline/',
-      },
+      // {
+      //   text: 'Tag',
+      //   link: '/tag/',
+      // },
+      // {
+      //   text: 'Timeline',
+      //   link: '/timeline/',
+      // },
     ],
   }),
 

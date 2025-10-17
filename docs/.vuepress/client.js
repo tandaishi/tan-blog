@@ -9,7 +9,7 @@ export default defineClientConfig({
   layouts: {
     Article,
     Category,
-    Tag,
-    Timeline,
+    // Tag,
+    // Timeline,
   },
 })
