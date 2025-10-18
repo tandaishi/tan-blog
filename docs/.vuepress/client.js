@@ -10,6 +10,6 @@ export default defineClientConfig({
     Article,
     Category,
     // Tag,
-    // Timeline,
+    Timeline,
   },
 })
