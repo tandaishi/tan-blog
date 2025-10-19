@@ -1,0 +1,46 @@
+{
+    "created_time": "2025-10-19T01:19:02Z",
+    "files": [
+        {
+            "attachment_folder": "",
+            "created_time": "2025-10-19T01:19:04Z",
+            "id": "180",
+            "modified_time": "2025-10-19T01:19:04Z",
+            "name": "client.js",
+            "signature": "5480448627316112520",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2025-10-19T01:19:04Z",
+            "id": "183",
+            "modified_time": "2025-10-19T01:19:04Z",
+            "name": "config.js",
+            "signature": "966700370182290568",
+            "tags": [
+            ]
+        }
+    ],
+    "folders": [
+        {
+            "name": ".cache"
+        },
+        {
+            "name": ".temp"
+        },
+        {
+            "name": "components"
+        },
+        {
+            "name": "layouts"
+        },
+        {
+            "name": "public"
+        }
+    ],
+    "id": "3",
+    "modified_time": "2025-10-19T01:19:02Z",
+    "signature": "2282777683680312454",
+    "version": 3
+}

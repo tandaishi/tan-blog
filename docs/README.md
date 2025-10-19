@@ -1,6 +1,6 @@
 ---
 home: true
-title: Home
+title: 主页
 heroImage: /images/头像.png
 actions:
   - text: Bilibili
