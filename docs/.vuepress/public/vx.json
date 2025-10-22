@@ -8,9 +8,12 @@
         },
         {
             "name": "windowsServer服务器配置"
+        },
+        {
+            "name": "exe嵌入python"
         }
     ],
-    "id": "189",
+    "id": "267",
     "modified_time": "2025-10-19T01:19:04Z",
     "signature": "1583702834916113544",
     "version": 3
