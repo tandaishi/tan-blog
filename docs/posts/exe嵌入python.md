@@ -7,6 +7,8 @@ tag:
 archive: false
 ---
 
+# exe嵌入python
+
 
 ```python
 # pack.py
