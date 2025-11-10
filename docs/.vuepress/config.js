@@ -7,7 +7,7 @@ export default defineUserConfig({
   lang: 'zh-CN',
 
   title: '谭记随笔',
-  description: '1',
+  description: ' ',
 
   theme: defaultTheme({
     // logo: 'https://vuejs.press/images/hero.png',
